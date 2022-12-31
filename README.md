@@ -11,7 +11,7 @@ substitutions:
   device_description: "DualR3 installed here or there"
 
 # inspired from https://esphome.io/components/sensor/bl0939.html
-# and [https://community.home-assistant.io/t/the-new-sonoff-dualr3/286682](https://www.espthings.io/index.php/2021/03/01/the-new-sonoff-dual-r3-is-here/)
+# and https://www.espthings.io/index.php/2021/03/01/the-new-sonoff-dual-r3-is-here/
 # and https://github.com/nagyrobi/home-assistant-configuration-examples/blob/main/esphome/ble-sensors-ethernet.yaml
 
 esphome:
